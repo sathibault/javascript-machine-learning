@@ -15,7 +15,9 @@ ijsinstall
 
 * assumes you already have Python and Node.js installed.
 
-The following command will run Jupyter and open a window in the browser:
+Clone this repository and run the following in the project directory
+to start Jupyter and open the notebook files:
+
 ```
 jupyter notebook
 ```
